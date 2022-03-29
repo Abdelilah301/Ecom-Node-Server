@@ -1,0 +1,46 @@
+[
+  {
+    "email": "test@test.com",
+    "password": "password"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "a",
+    "id": "60fba1df"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "a",
+    "id": "22e36a27"
+  },
+  {
+    "email": "test4@test.com",
+    "password": "aa",
+    "id": "fcf40b52"
+  },
+  {
+    "email": "test5@test.com",
+    "password": "aa",
+    "id": "d01641bf"
+  },
+  {
+    "email": "test6@test.com",
+    "password": "447efd6e56c952ee6df053f6aaf8a5b841681ca1f5475f9d3eed117e5861a21c48f18fb78a42269b0cdcdee64cf878760652e361b31715fabc96f90027594b3c.33ee109982e9b2da",
+    "id": "d0434f87"
+  },
+  {
+    "email": "testHashed@password.com",
+    "password": "d3775170f83f0adc7a43393453ceef8732e3214e905700949e6a648b0667ecfe90711637b1ed637504f8efc6cfdc25bef9bf71542fe547dad5cffc94f6df832a.ce02cc5c72db6bfe",
+    "id": "728da2f6"
+  },
+  {
+    "email": "email@email.com",
+    "password": "2f2519246afaccf14cdbad3f6a0eb43e3f66e6e76e704256786aa04fe9e19464d06aa9d0d0c3883f7653ff7ea922a531b7ecf18ed4a01dc48e6afc032a6dce0b.0298b02402d4f0ab",
+    "id": "a6a367d8"
+  },
+  {
+    "email": "abdelilahbasimazza32@gmail.com",
+    "password": "eface921c4714aa9ee40990d912fe49332daa243e022b1cad09d8037c93a4263e38293774d7e7bfcce177808ce84c98f4d72d6736af27b5cdd077444b9cfd3d8.dd72489af8f6a780",
+    "id": "e3da8063"
+  }
+]
